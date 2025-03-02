@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sohai/OneDrive%20-%20National%20University%20of%20Sciences%20%26%20Technology/Desktop/proj/chestcancerdetection/mlruns/0/aba800125bac4c7b8cd532b7107d1187/artifacts
+end_time: 1740255779174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aba800125bac4c7b8cd532b7107d1187
+run_name: debonair-fawn-63
+run_uuid: aba800125bac4c7b8cd532b7107d1187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740255766374
+status: 3
+tags: []
+user_id: sohai

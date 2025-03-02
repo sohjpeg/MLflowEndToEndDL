@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sohai/OneDrive%20-%20National%20University%20of%20Sciences%20%26%20Technology/Desktop/proj/chestcancerdetection/mlruns/0/e896bfa709374ab38d88b389df842470/artifacts
+end_time: 1740916344978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e896bfa709374ab38d88b389df842470
+run_name: angry-sloth-357
+run_uuid: e896bfa709374ab38d88b389df842470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740916334539
+status: 3
+tags: []
+user_id: sohai

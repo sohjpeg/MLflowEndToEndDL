@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sohai/OneDrive%20-%20National%20University%20of%20Sciences%20%26%20Technology/Desktop/proj/chestcancerdetection/mlruns/0/7fa59bc69daf4ec4ab931d40219e5dfb/artifacts
+end_time: 1740916282793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fa59bc69daf4ec4ab931d40219e5dfb
+run_name: chill-roo-276
+run_uuid: 7fa59bc69daf4ec4ab931d40219e5dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740916268893
+status: 3
+tags: []
+user_id: sohai
