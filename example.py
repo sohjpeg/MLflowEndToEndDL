@@ -9,6 +9,15 @@ from urllib.parse import urlparse
 
 import numpy as np
 import pandas as pd
+
+import dagshub
+dagshub.init(repo_owner='sohjpeg', repo_name='MLflowEndToEndDL', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
+
 from sklearn.linear_model import ElasticNet
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
